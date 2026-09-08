@@ -28,5 +28,3 @@ def int_check(question, low, high):
 # Main routine goes here
 integer = int_check("Integer:", 1, 200)
 print(f"Your integer is {integer}\n")
-
-if int_check = 
